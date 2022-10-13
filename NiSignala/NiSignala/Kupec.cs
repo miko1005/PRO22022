@@ -8,8 +8,8 @@ namespace NiSignala
 {
     internal class Kupec
     {
-        private string ime;
-        private decimal stanje;
+        protected string ime;
+        protected decimal stanje;
 
         public decimal Stanje { get => stanje; set => stanje = value; }
         public string Ime { get => ime; set => ime = value; } //ne smes spreminjat izven kupec
@@ -31,6 +31,10 @@ namespace NiSignala
                     break;
             }
          
+        }
+        public override string ToString()
+        {
+            return ime + " dolguje " + stanje + " evrov";
         }
     }
 }

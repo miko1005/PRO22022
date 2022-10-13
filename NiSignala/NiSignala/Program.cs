@@ -14,10 +14,17 @@ namespace NiSignala
             Janez.Ime = "Janez Novak";
             Janez.BeležiKlic(10, TipKlica.Stacionarno);
             Console.WriteLine(Janez.Ime + " dolguje " + Janez.Stanje);
-            Kupec Alenka=new Kupec();
+            Console.WriteLine("get type "+Janez.GetType());
+            Console.WriteLine("too string " + Janez.ToString());
+
+
+
+            Kupec60 Alenka =new Kupec60();
             Alenka.Ime = "Alenka Novak";
-            Alenka.BeležiKlic(10, TipKlica.Mobilno);
+            Alenka.BeležiKlic(100, TipKlica.Mobilno);
             Console.WriteLine(Alenka.Ime + " dolguje "+ Alenka.Stanje);
+            Console.WriteLine("get type " + Alenka.GetType());
+            Console.WriteLine("too string " + Alenka.ToString());
             Console.ReadLine();
         }
     }
