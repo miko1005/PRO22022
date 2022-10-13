@@ -9,7 +9,7 @@ namespace NiSignala
     internal class Kupec60:Kupec
     {
         private int višjaTarifaPorabljeno;
-        public new void BeležiKlic(int min, TipKlica tip)
+        public override void BeležiKlic(int min, TipKlica tip)
         {
             switch (tip)
             {

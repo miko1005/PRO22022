@@ -17,7 +17,7 @@ namespace NiSignala
         {
             stanje -= plačilo;
         }
-        public void BeležiKlic(int min,TipKlica tip)
+        public virtual void BeležiKlic(int min,TipKlica tip)
         {
             switch (tip)
             {
