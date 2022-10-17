@@ -1,0 +1,8 @@
+D:\TESTGIT2\Strukture\Strukture\bin\Debug\Strukture.exe.config
+D:\TESTGIT2\Strukture\Strukture\bin\Debug\Strukture.exe
+D:\TESTGIT2\Strukture\Strukture\bin\Debug\Strukture.pdb
+D:\TESTGIT2\Strukture\Strukture\obj\Debug\Strukture.csproj.AssemblyReference.cache
+D:\TESTGIT2\Strukture\Strukture\obj\Debug\Strukture.csproj.SuggestedBindingRedirects.cache
+D:\TESTGIT2\Strukture\Strukture\obj\Debug\Strukture.csproj.CoreCompileInputs.cache
+D:\TESTGIT2\Strukture\Strukture\obj\Debug\Strukture.exe
+D:\TESTGIT2\Strukture\Strukture\obj\Debug\Strukture.pdb
