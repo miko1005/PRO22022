@@ -1,0 +1,8 @@
+D:\TESTGIT2\Pravokotnik\Pravokotnik\bin\Debug\Pravokotnik.exe.config
+D:\TESTGIT2\Pravokotnik\Pravokotnik\bin\Debug\Pravokotnik.exe
+D:\TESTGIT2\Pravokotnik\Pravokotnik\bin\Debug\Pravokotnik.pdb
+D:\TESTGIT2\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.csproj.AssemblyReference.cache
+D:\TESTGIT2\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.csproj.SuggestedBindingRedirects.cache
+D:\TESTGIT2\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.csproj.CoreCompileInputs.cache
+D:\TESTGIT2\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.exe
+D:\TESTGIT2\Pravokotnik\Pravokotnik\obj\Debug\Pravokotnik.pdb
