@@ -1,0 +1,8 @@
+D:\TESTGIT2\Računaj_Matrike\Računaj_Matrike\bin\Debug\Računaj_Matrike.exe.config
+D:\TESTGIT2\Računaj_Matrike\Računaj_Matrike\bin\Debug\Računaj_Matrike.exe
+D:\TESTGIT2\Računaj_Matrike\Računaj_Matrike\bin\Debug\Računaj_Matrike.pdb
+D:\TESTGIT2\Računaj_Matrike\Računaj_Matrike\obj\Debug\Računaj_Matrike.csproj.AssemblyReference.cache
+D:\TESTGIT2\Računaj_Matrike\Računaj_Matrike\obj\Debug\Računaj_Matrike.csproj.SuggestedBindingRedirects.cache
+D:\TESTGIT2\Računaj_Matrike\Računaj_Matrike\obj\Debug\Računaj_Matrike.csproj.CoreCompileInputs.cache
+D:\TESTGIT2\Računaj_Matrike\Računaj_Matrike\obj\Debug\Računaj_Matrike.exe
+D:\TESTGIT2\Računaj_Matrike\Računaj_Matrike\obj\Debug\Računaj_Matrike.pdb
